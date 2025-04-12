@@ -1,4 +1,4 @@
 # apnacollege-demos
 this is my git repository.
 <br>
-author: apurbo das pranto
+author: apurbo das(apna college)
